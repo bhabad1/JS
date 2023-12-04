@@ -1,6 +1,8 @@
 # Factory Pattern
 
-    The Factory pattern is another creational pattern for creating objects. It differs from the other patterns in its category because it doesn’t explicitly require us to use a constructor. Instead, a Factory can provide a generic interface for creating objects, where we can specify the type of factory object we want to create
+    The Factory pattern is another creational pattern for creating objects.
+    It differs from the other patterns in its category because it doesn’t explicitly require us to use a constructor.
+    Instead, a Factory can provide a generic interface for creating objects, where we can specify the type of factory object we want to create
 
 # When to Use the Factory Pattern
 
